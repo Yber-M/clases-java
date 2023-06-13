@@ -1,0 +1,7 @@
+123|Marlon|Sistemas|1444.0|4|SNP
+123|Pedro|Sistemas|1500.0|4|AFP
+3325|Jull|Administracion|1500.0|5|SNP
+345|Homar|Administracion|1500.0|5|SNP
+333|Sebastian|Sistemas|15000.0|4|AFP
+12|Daniel|Sistemas|1523.0|4|AFP
+2323|Joaquin|Sistemas|4443.0|2|AFP
