@@ -62,7 +62,7 @@ public class polimorfismo {
         System.out.println("Nombre y Apellidos : " + lioMessi.getNombre() + " " + lioMessi.getApellidos());
         System.out.println("Dorso : " + lioMessi.getDorsal());
         ((futbolista)lioMessi).entrevista();
-        System.out.println("");
+        System.out.println("\n\t---- TERMINADO ----\n");
     }
     
 }

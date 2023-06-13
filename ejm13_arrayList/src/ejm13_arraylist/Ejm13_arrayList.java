@@ -10,6 +10,7 @@ public class Ejm13_arrayList {
         ventas.add(50);
         ventas.add(201);
         ventas.add(56);
+        ventas.add(34);
         
     }
     
